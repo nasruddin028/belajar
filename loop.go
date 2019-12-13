@@ -61,4 +61,5 @@ func main() {
 	}
 fmt.Println("Bye, Terimakasih")
     
+//VER 1.0.0
     }
